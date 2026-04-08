@@ -1,0 +1,7 @@
+migration/**
+migration_output/**
+*.py
+*.xlsx
+*.jpeg
+*.md
+*.csv
