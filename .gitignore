@@ -1,2 +1,6 @@
 migration_output/
-~$*.xlsx
+*.xlsx
+*.jpeg
+*.png
+*.md
+~$*
